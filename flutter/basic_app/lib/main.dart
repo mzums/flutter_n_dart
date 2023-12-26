@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(MaterialApp(
       home: Scaffold(
-        backgroundColor: Color.fromARGB(31, 48, 48, 48),
+        backgroundColor: const Color.fromARGB(31, 48, 48, 48),
         appBar: AppBar(
           title: const Text(
-            'hi mzums!!!',
+            'hi mzums!',
           ),
           centerTitle: true,
           backgroundColor: const Color.fromARGB(255, 0, 84, 158),
